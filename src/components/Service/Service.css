@@ -1,0 +1,11 @@
+.service-card{
+    padding: 30px 10px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+}
+.service-card{
+    transition: 0.5s;
+}
+.service-card:hover{
+    box-shadow: 2px 5px 10px gray;
+}
